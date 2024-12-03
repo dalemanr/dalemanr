@@ -10,15 +10,34 @@ Soy un **Tecnólogo en Análisis y Desarrollo de Software** apasionado por el de
 - 📚 Disfruto aprender constantemente, y actualmente estoy estudiando inglés para complementar mi perfil profesional.
 - 🚀 Busco colaborar en proyectos que me permitan crecer como desarrollador junior.
 
+
 ---
 
 ## 🛠️ Habilidades
 
-- **Lenguajes:** Java, C#, SQL
-- **Frameworks:** Spring Boot, ASP.NET Core
-- **Herramientas:** Power BI, IntelliJ IDEA, Visual Studio
-- **Base de Datos:** MySQL, PostgreSQL
-- **Otros:** UML, Git, Metodologías ágiles (Scrum)
+- **Lenguajes:**
+  ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- **Frameworks:**
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+- **Herramientas:**
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+- **Bases de Datos:**
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+- **Otros:**
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![UML](https://img.shields.io/badge/UML-333333?style=for-the-badge&logo=uml&logoColor=white)
 
 ---
 
