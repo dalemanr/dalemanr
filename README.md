@@ -18,14 +18,14 @@ Soy un **Tecnólogo en Análisis y Desarrollo de Software** apasionado por el de
 - **Lenguajes:**
   ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - **Frameworks:**
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
 
 - **Herramientas:**
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
@@ -38,6 +38,13 @@ Soy un **Tecnólogo en Análisis y Desarrollo de Software** apasionado por el de
 - **Otros:**
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![UML](https://img.shields.io/badge/UML-333333?style=for-the-badge&logo=uml&logoColor=white)
+
+
+---
+
+## ☑️ Conocimientos en:
+
+  [![My Skills](https://skillicons.dev/icons?i=java,cs,python,php,typescript,javascript,html,css,mysql,postgresql,docker,git,github,spring,laravel,django,dotnet,angular,visualstudio,vscode,idea,pycharm,postman)](https://skillicons.dev)
 
 ---
 
